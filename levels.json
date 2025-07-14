@@ -3,7 +3,7 @@
       "id":1,
       "name_tag":"txt_level_1",
       "thumbnail_tag":"img_thumbnail_1",
-      "node":[
+      "nodes":[
          {
             "id":1,
             "x":256,
@@ -30,7 +30,7 @@
             "y":76
          }
       ],
-      "edge":[
+      "edges":[
          {
             "id":1,
             "start_id":0,
